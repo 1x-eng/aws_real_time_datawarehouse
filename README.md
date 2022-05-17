@@ -1,4 +1,4 @@
-# Real Time DataWarehousing in AWS - 100% serverless stack.
+# Realtime data lakehouse in AWS - 100% serverless stack.
 
 ## Pre-requisites:
 - Have an AWS Account.
